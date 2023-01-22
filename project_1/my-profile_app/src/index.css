@@ -1,10 +1,10 @@
 *{
-  margin: 0;
+  
   padding: 0;
   font-size: 18px;
-  box-sizing: border-box;
   outline: 1px rebeccapurple solid;
-  color: aliceblue;
+  
+  
 }
 img{
   display: block;
@@ -36,9 +36,13 @@ ul >li {
 .bg-color{
   background-color: black;
 }
+nav {
+  height: 4em;
+}
 .set-container {
   padding: 0;
   width: 90%;
-  height: 4em;
   margin: 0 auto;
+
 }
+

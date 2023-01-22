@@ -4,7 +4,7 @@ import react from '../assets/react.svg'
 function Header() {
   return (
   <header className='bg-color'>
-    <div className="container set-container">
+    <nav className="container set-container">
         <div className="nav-logo">
             <img src={react} alt="web logo" />
         </div>
@@ -18,7 +18,7 @@ function Header() {
                 <li><a href="">Projects</a></li>
             </ul>
         </div>
-    </div>
+    </nav>
   </header>
   )
 }
