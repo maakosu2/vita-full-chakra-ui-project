@@ -21,7 +21,7 @@ img{
  
 
 }
-ul >li {
+.nav-list >li {
   list-style: none;
   margin-inline: 7px;
   margin-right: 0;

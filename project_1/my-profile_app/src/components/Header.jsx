@@ -12,7 +12,7 @@ function Header() {
             <h1>nav title</h1>
         </div>
         <div className="nav-linkstate">
-            <ul className='container'>
+            <ul className='container nav-list'>
                 <li><a href="">Home</a></li>
                 <li><a href="">About</a></li>
                 <li><a href="">Projects</a></li>
