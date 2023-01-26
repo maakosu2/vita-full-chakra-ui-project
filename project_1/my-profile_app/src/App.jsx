@@ -7,6 +7,8 @@ import Element from './components/Element'
 import Pricing from './components/Pricing'
 // 1. import `ChakraProvider` component
 import { ChakraProvider } from '@chakra-ui/react'
+import Features from './components/Features'
+
 
 
 function App() {
@@ -18,6 +20,7 @@ function App() {
       <ChakraProvider>
      <Element />
      <Pricing/>
+     <Features/>
       </ChakraProvider>
       </>
   )
